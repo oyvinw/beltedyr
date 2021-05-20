@@ -8,6 +8,9 @@ edition = "2018"
 
 [dependencies]
 bevy = "0.5.0"
+serde = "1.0.126"
+serde_json = "1.0.64"
+ldtk_rust = "0.5.2"
 
 [profile.dev]
 opt-level = 1
