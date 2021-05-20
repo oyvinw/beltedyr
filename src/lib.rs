@@ -4,6 +4,7 @@ use ldtk_rust::*;
 
 mod helper;
 
+//Path this to LDtk-file if needed
 const LDTK_FILE_PATH: &str = "assets/ldtk/ldtk_project.ldtk";
 
 
